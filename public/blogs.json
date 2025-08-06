@@ -1,0 +1,59 @@
+ [
+  {
+    "id": 1,
+    "title": "Top 5 Summer Fashion Trends in 2025",
+    "author": "Hara",
+    "date": "2025-08-06",
+    "content": "Summer 2025 is all about bold colors, breathable fabrics, and retro vibes. From oversized sunglasses to crochet dresses, explore the top 5 must-have trends this season.",
+    "tags": ["Fashion", "Summer 2025", "Trends"],
+    "image": "/images/fashion_id1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "How to Build a Capsule Wardrobe",
+    "author": "Hara",
+    "date": "2025-07-30",
+    "content": "Simplify your closet and elevate your style with a capsule wardrobe. Learn how to choose timeless, versatile pieces that work for any season.",
+    "tags": ["Wardrobe", "Minimalism", "Style Tips"],
+    "image": "/images/fashion_id2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Street Style Looks You’ll Love",
+    "author": "Hara",
+    "date": "2025-07-20",
+    "content": "From edgy leather jackets to laid-back sneakers, street style continues to inspire designers and fashionistas alike. Check out the most iconic looks spotted this month.",
+    "tags": ["Street Style", "Urban Fashion", "Inspiration"],
+    "image": "/images/fashion_id3.jpg"
+  },
+  
+  {
+    "id": 4,
+    "title": "The Rise of Sustainable Fashion",
+    "author": "Hara",
+    "date": "2025-07-10",
+    "content": "Consumers are increasingly choosing brands that care about the planet. Learn how sustainable fashion is transforming the industry and how you can make more eco-conscious style choices.",
+    "tags": ["Sustainability", "Eco Fashion", "Green Living"],
+    "image": "/images/fashion_id4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Accessorizing Like a Pro: From Bags to Jewelry",
+    "author": "Hara",
+    "date": "2025-06-28",
+    "content": "Accessories can make or break an outfit. This guide walks you through how to choose the right pieces — from statement necklaces to the perfect clutch — for every occasion.",
+    "tags": ["Accessories", "Jewelry", "Style Guide"],
+    "image": "/images/fashion_id5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Fashion Icons Who Changed the Game",
+    "author": "Hara",
+    "date": "2025-06-15",
+    "content": "From Coco Chanel to Rihanna, these style legends have shaped the way we dress today. Discover the stories and signature looks of fashion’s most influential figures.",
+    "tags": ["Fashion History", "Icons", "Inspiration"],
+    "image": "/images/fashion_id6.jpg"
+  }
+
+
+]

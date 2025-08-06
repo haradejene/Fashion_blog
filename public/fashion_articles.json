@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Why Everyone Suddenly Loves Socks",
+    "author": "Nia Bloom",
+    "date": "2025-05-10",
+    "summary": "Once overlooked, socks are now stealing the spotlight on runways and sidewalks.",
+    "content": "From neon colors to mismatched patterns, socks are having their moment. Fashionistas are flaunting them with heels, sandals, and even formalwear. Who knew comfort and flair could be such a powerful combo?",
+    "tags": ["Trends", "Accessories", "Fun Fashion"]
+  },
+  {
+    "id": 2,
+    "title": "Can You Survive a Week in Denim Everything?",
+    "author": "Theo Lema",
+    "date": "2025-05-22",
+    "summary": "We dared one writer to wear only denim for seven days. Here's what happened.",
+    "content": "Spoiler: denim-on-denim isn’t just for cowboys. From jeans to denim hats, the experiment revealed just how versatile (and sometimes sweaty) denim can be. Would they do it again? Probably not.",
+    "tags": ["Challenges", "Denim", "Humor"]
+  },
+  {
+    "id": 3,
+    "title": "5 Outfits Inspired by Your Favorite Breakfast Foods",
+    "author": "Zara Mekonnen",
+    "date": "2025-06-05",
+    "summary": "Dress like avocado toast and still look cute? Absolutely.",
+    "content": "We styled five outfits based on classic breakfast items. Think cozy browns for coffee, soft whites for eggs, and sunny yellows for OJ. Fashion has never been so deliciously inspired.",
+    "tags": ["Style Ideas", "Creative Fashion", "Fun"]
+  },
+  {
+    "id": 4,
+    "title": "The Great Hat Comeback of 2025",
+    "author": "Leo Assefa",
+    "date": "2025-06-17",
+    "summary": "Berets, bucket hats, and even top hats are trending again. Are you ready?",
+    "content": "Hats are no longer just sun protection — they're statements. Whether it's cottagecore berets or retro bucket hats, people are topping off their outfits with flair (and a bit of shade).",
+    "tags": ["Headwear", "Trends", "Throwback"]
+  },
+  {
+    "id": 5,
+    "title": "What Your Shoes Say About Your Personality",
+    "author": "Hana Yonas",
+    "date": "2025-07-02",
+    "summary": "Are you a sneakerhead or a silent loafer? Your shoes might be spilling your secrets.",
+    "content": "Fashion psychologists (yes, that’s a thing) say your footwear reflects more than style. Boots mean you're bold. Crocs? A rebel. High heels? You like to suffer — fashionably.",
+    "tags": ["Fashion Psychology", "Shoes", "Fun Reads"]
+  }
+]
