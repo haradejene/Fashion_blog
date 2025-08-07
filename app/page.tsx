@@ -1,7 +1,9 @@
 "use client";
+
 import React, { useState, useEffect } from "react";
-import Link from 'next/link';
+import Link from "next/link";
 import Image from "next/image";
+import Head from "next/head";
 import Footer from "./components/Footer";
 
 type Post = {
@@ -20,8 +22,8 @@ export default function Home() {
 
   useEffect(() => {
     fetch("/blogs.json")
-      .then(res => res.json())
-      .then(data => {
+      .then((res) => res.json())
+      .then((data) => {
         setPosts(data);
         setLoading(false);
       })
@@ -32,16 +34,16 @@ export default function Home() {
 
   return (
     <>
-      <head>
+      <Head>
         <title>FASHIONOVA</title>
-      </head>
-      <div className="p-20">
+      </Head>
+
+      <div >
         <nav className="flex justify-between text-black items-center px-6 py-4">
           <h1 className="text-4xl font-light">FASHIONOVA</h1>
-
           <div className="flex gap-6">
-            <Link href={"/"}>Blog</Link>
-            <Link href={"/article"}>Article</Link>
+            <Link href="/">Blog</Link>
+            <Link href="/article">Article</Link>
             <Link href="/suggestions">Suggestions</Link>
           </div>
         </nav>
@@ -80,6 +82,7 @@ export default function Home() {
           ))}
         </div>
       </div>
+
       <Footer />
     </>
   );
